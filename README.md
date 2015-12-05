@@ -1,0 +1,1 @@
+DTI processing can be complex. These documents provide amazingly detailed guides for running your DTI data in FSL, Diffusion Toolkit + TrackVis (MAC), and/or DTI Studio (PC)! By Katarina, An, and Petya.
